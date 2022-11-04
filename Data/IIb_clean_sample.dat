@@ -1,0 +1,745 @@
+,event,MJD,V,source,texp,texp_source,Verr
+0,SN2008ax,54531.08,16.29,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.067
+1,SN2008ax,54532.01,15.92,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+2,SN2008ax,54532.05,15.952,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.042
+3,SN2008ax,54532.91,15.562000000000001,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.031
+4,SN2008ax,54533.03,15.527999999999999,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.013999999999999999
+5,SN2008ax,54534.07,15.27,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.011000000000000001
+6,SN2008ax,54535.1,14.982999999999999,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.012
+7,SN2008ax,54535.99,14.819,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.013000000000000001
+8,SN2008ax,54536.97,14.592,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.011000000000000001
+9,SN2008ax,54537.09,14.54,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.02
+10,SN2008ax,54538.01,14.457,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.04
+11,SN2008ax,54539.92,14.133,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.01
+12,SN2008ax,54540.87,13.88,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+13,SN2008ax,54540.93,14.005,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.01
+14,SN2008ax,54543.05,13.808,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.01
+15,SN2008ax,54543.86,13.714,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.01
+16,SN2008ax,54543.92,13.68,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.02
+17,SN2008ax,54544.85,13.683,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.11800000000000001
+18,SN2008ax,54545.89,13.56,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.02
+19,SN2008ax,54546.86,13.546,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.012
+20,SN2008ax,54550.81,13.41,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.02
+21,SN2008ax,54552.03,13.45,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.01
+22,SN2008ax,54552.89,13.634,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.043
+23,SN2008ax,54552.93,13.58,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.04
+24,SN2008ax,54553.87,13.657,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.009000000000000001
+25,SN2008ax,54555.02,13.64,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.05
+26,SN2008ax,54555.86,13.835999999999999,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.055
+27,SN2008ax,54555.92,13.77,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.05
+28,SN2008ax,54556.06,13.837,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.009000000000000001
+29,SN2008ax,54556.87,13.915,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.01
+30,SN2008ax,54556.91,13.87,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.02
+31,SN2008ax,54557.84,13.995999999999999,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.013000000000000001
+32,SN2008ax,54559.98,14.168,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.009000000000000001
+33,SN2008ax,54560.9,14.219000000000001,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.06
+34,SN2008ax,54561.25,14.244000000000002,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.01
+35,SN2008ax,54561.88,14.345999999999998,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.012
+36,SN2008ax,54562.9,14.39,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+37,SN2008ax,54563.88,14.479000000000001,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+38,SN2008ax,54563.97,14.41,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+39,SN2008ax,54565.85,14.575,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.044000000000000004
+40,SN2008ax,54568.87,14.687000000000001,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.012
+41,SN2008ax,54569.87,14.71,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.02
+42,SN2008ax,54570.87,14.741,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.011000000000000001
+43,SN2008ax,54570.91,14.75,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.046
+44,SN2008ax,54571.87,14.796,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.012
+45,SN2008ax,54572.88,14.832,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.011000000000000001
+46,SN2008ax,54574.86,14.867,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.01
+47,SN2008ax,54575.87,14.902999999999999,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.011000000000000001
+48,SN2008ax,54576.9,14.93,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.01
+49,SN2008ax,54577.87,14.950999999999999,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.011000000000000001
+50,SN2008ax,54578.88,14.960999999999999,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.011000000000000001
+51,SN2008ax,54578.88,14.97,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.02
+52,SN2008ax,54579.89,14.972999999999999,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.07400000000000001
+53,SN2008ax,54582.83,15.07,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+54,SN2008ax,54584.85,15.05,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+55,SN2008ax,54586.18,15.114,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.015
+56,SN2008ax,54587.97,15.14,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.048
+57,SN2008ax,54589.8,15.2,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+58,SN2008ax,54592.9,15.237,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.026000000000000002
+59,SN2008ax,54595.87,15.324000000000002,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.01
+60,SN2008ax,54598.88,15.376,"2008MNRAS.389..955P,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.01
+61,SN2008ax,54600.97,15.41,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.04
+62,SN2008ax,54601.84,15.5,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+63,SN2008ax,54612.82,15.65,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.02
+64,SN2008ax,54615.91,15.69,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+65,SN2008ax,54622.83,15.87,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+66,SN2008ax,54627.94,16.0,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+67,SN2008ax,54642.84,16.37,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+68,SN2008ax,54643.82,16.35,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+69,SN2008ax,54646.81,16.35,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.04
+70,SN2008ax,54646.81,16.41,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.02
+71,SN2008ax,54648.8,16.41,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.03
+72,SN2008ax,54655.8,16.63,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.02
+73,SN2008ax,54657.8,16.63,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.1
+74,SN2008ax,54659.83,16.67,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.04
+75,SN2008ax,54673.84,17.01,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.06
+76,SN2008ax,54674.82,17.01,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.04
+77,SN2008ax,54676.82,17.19,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.05
+78,SN2008ax,54678.82,17.31,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.07
+79,SN2008ax,54698.78,17.57,"2009PZ.....29....2T,Sternberg Astronomical Institute Supernova Light Curve Catalogue",54528.3,OBS.,0.2
+80,SN2011dh,55715.5584,14.977,2014Ap&SS.354...89B,55712.4,OBS.,0.057999999999999996
+81,SN2011dh,55716.2253,14.892999999999999,2014Ap&SS.354...89B,55712.4,OBS.,0.057
+82,SN2011dh,55717.3157,14.599,2014Ap&SS.354...89B,55712.4,OBS.,0.06
+83,SN2011dh,55718.6004,14.09,2014Ap&SS.354...89B,55712.4,OBS.,0.049
+84,SN2011dh,55720.3293,13.565,2014Ap&SS.354...89B,55712.4,OBS.,0.045
+85,SN2011dh,55721.3379,13.344000000000001,2014Ap&SS.354...89B,55712.4,OBS.,0.043
+86,SN2011dh,55722.6759,13.118,2014Ap&SS.354...89B,55712.4,OBS.,0.042
+87,SN2011dh,55723.4754,13.034,2014Ap&SS.354...89B,55712.4,OBS.,0.042
+88,SN2011dh,55724.9672,12.901,2014Ap&SS.354...89B,55712.4,OBS.,0.042
+89,SN2011dh,55726.2316,12.841,2014Ap&SS.354...89B,55712.4,OBS.,0.040999999999999995
+90,SN2011dh,55727.3645,12.737,2014Ap&SS.354...89B,55712.4,OBS.,0.040999999999999995
+91,SN2011dh,55728.9115,12.703,2014Ap&SS.354...89B,55712.4,OBS.,0.040999999999999995
+92,SN2011dh,55729.1687,12.659,2014Ap&SS.354...89B,55712.4,OBS.,0.040999999999999995
+93,SN2011dh,55730.2372,12.63,2014Ap&SS.354...89B,55712.4,OBS.,0.040999999999999995
+94,SN2011dh,55731.5496,12.579,2014Ap&SS.354...89B,55712.4,OBS.,0.040999999999999995
+95,SN2011dh,55732.5787,12.56,2014Ap&SS.354...89B,55712.4,OBS.,0.040999999999999995
+96,SN2011dh,55733.5213,12.577,2014Ap&SS.354...89B,55712.4,OBS.,0.040999999999999995
+97,SN2011dh,55734.45200000001,12.592,2014Ap&SS.354...89B,55712.4,OBS.,0.0
+98,SN2011dh,55735.624,12.642000000000001,2014Ap&SS.354...89B,55712.4,OBS.,0.040999999999999995
+99,SN2011dh,55736.1228,12.665999999999999,2014Ap&SS.354...89B,55712.4,OBS.,0.040999999999999995
+100,SN2011dh,55737.1267,12.745,2014Ap&SS.354...89B,55712.4,OBS.,0.040999999999999995
+101,SN2011dh,55738.2638,12.828,2014Ap&SS.354...89B,55712.4,OBS.,0.042
+102,SN2011dh,55739.8694,12.997,2014Ap&SS.354...89B,55712.4,OBS.,0.043
+103,SN2011dh,55740.905,13.1,2014Ap&SS.354...89B,55712.4,OBS.,0.043
+104,SN2011dh,55741.3053,13.158,2014Ap&SS.354...89B,55712.4,OBS.,0.043
+105,SN2011dh,55742.4166,13.275,2014Ap&SS.354...89B,55712.4,OBS.,0.044000000000000004
+106,SN2011dh,55743.3789,13.347000000000001,2014Ap&SS.354...89B,55712.4,OBS.,0.044000000000000004
+107,SN2011dh,55744.7826,13.457,2014Ap&SS.354...89B,55712.4,OBS.,0.045
+108,SN2011dh,55745.6537,13.534,2014Ap&SS.354...89B,55712.4,OBS.,0.046
+109,SN2011dh,55750.1731,13.787,2014Ap&SS.354...89B,55712.4,OBS.,0.047
+110,SN2011dh,55754.1859,14.039000000000001,2014Ap&SS.354...89B,55712.4,OBS.,0.05
+111,SN2011dh,55758.3914,14.139000000000001,2014Ap&SS.354...89B,55712.4,OBS.,0.052000000000000005
+112,SN2011dh,55762.1061,14.251,2014Ap&SS.354...89B,55712.4,OBS.,0.054000000000000006
+113,SN2011dh,55766.0565,14.418,2014Ap&SS.354...89B,55712.4,OBS.,0.057999999999999996
+114,SN2011dh,55770.4099,14.408,2014Ap&SS.354...89B,55712.4,OBS.,0.055999999999999994
+115,SN2011dh,55775.258,14.585999999999999,2014Ap&SS.354...89B,55712.4,OBS.,0.06
+116,SN2011dh,55780.3446,14.613,2014Ap&SS.354...89B,55712.4,OBS.,0.06
+117,SN2011dh,55784.6386,14.704,2014Ap&SS.354...89B,55712.4,OBS.,0.063
+118,SN2011dh,55788.4451,14.710999999999999,2014Ap&SS.354...89B,55712.4,OBS.,0.06
+119,SN1993J,49076.0,10.75,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+120,SN1993J,49076.2,10.69,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+121,SN1993J,49076.89,10.7,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+122,SN1993J,49077.0,10.75,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+123,SN1993J,49077.06,10.76,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+124,SN1993J,49077.16,10.8,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+125,SN1993J,49077.2,10.8,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+126,SN1993J,49077.2,10.82,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+127,SN1993J,49077.98,11.02,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+128,SN1993J,49077.98,11.04,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+129,SN1993J,49078.5,11.21,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+130,SN1993J,49078.66,11.22,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+131,SN1993J,49078.9,11.3,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+132,SN1993J,49079.08,11.36,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+133,SN1993J,49079.2,11.38,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+134,SN1993J,49079.49,11.5,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+135,SN1993J,49079.51,11.48,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+136,SN1993J,49079.99,11.6,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+137,SN1993J,49079.99,11.62,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+138,SN1993J,49080.16,11.64,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+139,SN1993J,49080.16,11.65,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+140,SN1993J,49080.2,11.67,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+141,SN1993J,49080.2,11.68,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+142,SN1993J,49080.53,11.76,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+143,SN1993J,49080.56,11.76,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+144,SN1993J,49080.9,11.79,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+145,SN1993J,49081.09,11.81,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+146,SN1993J,49081.09,11.86,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+147,SN1993J,49081.95,11.9,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+148,SN1993J,49082.08,11.91,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+149,SN1993J,49082.08,11.92,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+150,SN1993J,49082.17,11.87,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+151,SN1993J,49082.19,11.9,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+152,SN1993J,49082.24,11.9,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+153,SN1993J,49082.27,11.91,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+154,SN1993J,49082.31,11.9,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+155,SN1993J,49082.33,11.88,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+156,SN1993J,49082.34,11.88,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+157,SN1993J,49082.35,11.86,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+158,SN1993J,49082.49,11.88,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+159,SN1993J,49082.54,11.85,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+160,SN1993J,49082.61,11.89,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+161,SN1993J,49082.66,11.98,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+162,SN1993J,49082.91,11.84,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+163,SN1993J,49082.91,11.86,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+164,SN1993J,49082.97,11.88,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+165,SN1993J,49083.0,11.84,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+166,SN1993J,49083.02,11.86,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+167,SN1993J,49083.1,11.84,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+168,SN1993J,49083.1,11.85,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+169,SN1993J,49083.1,11.86,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+170,SN1993J,49083.2,11.83,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+171,SN1993J,49083.2,11.84,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+172,SN1993J,49083.49,11.84,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+173,SN1993J,49083.59,11.78,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+174,SN1993J,49083.68,11.79,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+175,SN1993J,49083.76,11.85,"1995PAZh...21..670M,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+176,SN1993J,49083.99,11.8,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+177,SN1993J,49084.07,11.74,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+178,SN1993J,49084.1,11.75,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+179,SN1993J,49084.22,11.73,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+180,SN1993J,49084.22,11.75,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+181,SN1993J,49084.3,11.72,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+182,SN1993J,49084.5,11.7,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+183,SN1993J,49084.61,11.69,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+184,SN1993J,49084.67,11.65,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+185,SN1993J,49085.0,11.63,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+186,SN1993J,49085.02,11.64,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+187,SN1993J,49085.08,11.63,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+188,SN1993J,49085.08,11.64,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+189,SN1993J,49085.1,11.63,"1994AJ....107.1022R,1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+190,SN1993J,49085.1,11.64,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+191,SN1993J,49085.19,11.62,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+192,SN1993J,49085.22,11.64,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+193,SN1993J,49085.24,11.63,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+194,SN1993J,49085.24,11.66,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+195,SN1993J,49085.32,11.61,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+196,SN1993J,49085.58,11.68,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+197,SN1993J,49085.62,11.56,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+198,SN1993J,49085.98,11.5,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+199,SN1993J,49085.98,11.52,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+200,SN1993J,49086.1,11.49,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+201,SN1993J,49086.54,11.46,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+202,SN1993J,49086.66,11.52,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+203,SN1993J,49087.07,11.39,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+204,SN1993J,49087.16,11.36,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+205,SN1993J,49087.16,11.39,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+206,SN1993J,49087.18,11.37,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+207,SN1993J,49087.23,11.31,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+208,SN1993J,49087.23,11.37,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+209,SN1993J,49087.4,11.25,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+210,SN1993J,49087.47,11.33,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+211,SN1993J,49087.53,11.31,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+212,SN1993J,49087.61,11.46,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+213,SN1993J,49087.76,11.12,"1995PAZh...21..670M,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+214,SN1993J,49087.89,11.28,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+215,SN1993J,49087.89,11.29,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+216,SN1993J,49087.9,11.31,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+217,SN1993J,49087.9,11.31,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+218,SN1993J,49087.9,11.39,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+219,SN1993J,49087.9,11.39,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+220,SN1993J,49087.93,11.29,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+221,SN1993J,49087.93,11.31,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+222,SN1993J,49088.01,11.28,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+223,SN1993J,49088.06,11.32,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+224,SN1993J,49088.21,11.23,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+225,SN1993J,49088.21,11.27,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+226,SN1993J,49088.27,11.25,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+227,SN1993J,49088.66,11.3,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+228,SN1993J,49088.76,11.22,"1995PAZh...21..670M,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+229,SN1993J,49088.93,11.17,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+230,SN1993J,49088.93,11.18,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+231,SN1993J,49089.2,11.14,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+232,SN1993J,49089.48,11.11,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+233,SN1993J,49089.56,11.24,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+234,SN1993J,49089.64,11.12,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+235,SN1993J,49089.87,11.1,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+236,SN1993J,49090.0,11.08,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+237,SN1993J,49090.0,11.09,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+238,SN1993J,49090.2,11.03,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+239,SN1993J,49090.2,11.05,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+240,SN1993J,49090.3,11.04,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+241,SN1993J,49090.58,11.17,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+242,SN1993J,49090.88,11.01,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+243,SN1993J,49091.04,11.0,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+244,SN1993J,49091.12,11.0,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+245,SN1993J,49091.17,10.98,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+246,SN1993J,49091.2,10.96,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+247,SN1993J,49091.2,10.97,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+248,SN1993J,49091.3,10.98,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+249,SN1993J,49091.55,10.97,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+250,SN1993J,49091.63,11.03,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+251,SN1993J,49091.88,10.94,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+252,SN1993J,49091.88,10.95,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+253,SN1993J,49091.98,10.93,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+254,SN1993J,49091.98,10.94,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+255,SN1993J,49092.15,10.91,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+256,SN1993J,49092.46,10.93,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+257,SN1993J,49092.88,10.85,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+258,SN1993J,49092.88,10.85,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+259,SN1993J,49092.88,10.86,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+260,SN1993J,49092.88,10.86,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+261,SN1993J,49092.88,10.89,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+262,SN1993J,49092.88,10.9,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+263,SN1993J,49093.05,10.9,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+264,SN1993J,49093.19,10.89,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+265,SN1993J,49093.2,10.83,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+266,SN1993J,49093.2,10.89,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+267,SN1993J,49093.3,10.89,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+268,SN1993J,49093.48,10.88,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+269,SN1993J,49093.6,10.88,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+270,SN1993J,49093.86,10.85,"1995PAZh...21..670M,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+271,SN1993J,49093.89,10.86,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+272,SN1993J,49093.89,10.87,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+273,SN1993J,49093.91,10.87,"1995PAZh...21..670M,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+274,SN1993J,49093.97,10.85,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+275,SN1993J,49093.97,10.85,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+276,SN1993J,49094.0,10.85,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+277,SN1993J,49094.0,10.86,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+278,SN1993J,49094.19,10.84,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+279,SN1993J,49094.2,10.82,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+280,SN1993J,49094.2,10.89,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+281,SN1993J,49094.47,10.86,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+282,SN1993J,49094.61,11.0,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+283,SN1993J,49094.93,10.9,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+284,SN1993J,49095.0,10.75,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+285,SN1993J,49095.07,10.84,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+286,SN1993J,49095.15,10.84,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+287,SN1993J,49095.2,10.85,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+288,SN1993J,49095.24,10.81,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+289,SN1993J,49095.3,10.85,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+290,SN1993J,49095.48,10.86,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+291,SN1993J,49095.64,10.97,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+292,SN1993J,49095.9,10.91,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+293,SN1993J,49095.9,10.91,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+294,SN1993J,49096.0,10.75,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+295,SN1993J,49096.04,10.86,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+296,SN1993J,49096.1,10.87,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+297,SN1993J,49096.15,10.84,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+298,SN1993J,49096.15,10.86,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+299,SN1993J,49096.2,10.82,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+300,SN1993J,49096.2,10.83,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+301,SN1993J,49096.45,10.87,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+302,SN1993J,49096.63,10.85,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+303,SN1993J,49096.84,10.72,"1995PAZh...21..670M,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+304,SN1993J,49096.87,10.87,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+305,SN1993J,49096.87,10.87,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+306,SN1993J,49096.87,10.88,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+307,SN1993J,49096.87,10.88,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+308,SN1993J,49096.9,10.85,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+309,SN1993J,49096.9,10.85,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+310,SN1993J,49097.1,10.88,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+311,SN1993J,49097.15,10.86,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+312,SN1993J,49097.2,10.9,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+313,SN1993J,49097.3,10.86,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+314,SN1993J,49097.44,10.91,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+315,SN1993J,49097.61,11.04,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+316,SN1993J,49098.08,10.94,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+317,SN1993J,49098.1,10.92,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+318,SN1993J,49098.13,10.93,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+319,SN1993J,49098.28,10.91,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+320,SN1993J,49098.83,10.98,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+321,SN1993J,49098.83,10.98,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+322,SN1993J,49098.83,11.01,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+323,SN1993J,49098.83,11.01,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+324,SN1993J,49098.96,10.99,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+325,SN1993J,49098.96,11.0,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+326,SN1993J,49099.15,11.0,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+327,SN1993J,49099.2,10.99,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+328,SN1993J,49099.2,11.0,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+329,SN1993J,49099.79,11.06,"1995PAZh...21..670M,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+330,SN1993J,49099.83,11.05,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+331,SN1993J,49099.83,11.05,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+332,SN1993J,49099.83,11.07,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+333,SN1993J,49099.83,11.07,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+334,SN1993J,49099.87,10.63,"1995PAZh...21..670M,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+335,SN1993J,49100.2,11.09,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+336,SN1993J,49100.25,11.12,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+337,SN1993J,49100.3,11.1,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+338,SN1993J,49100.51,11.27,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+339,SN1993J,49100.79,11.08,"1995PAZh...21..670M,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+340,SN1993J,49100.91,11.16,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+341,SN1993J,49100.91,11.18,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+342,SN1993J,49100.96,11.16,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+343,SN1993J,49100.96,11.16,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+344,SN1993J,49100.96,11.17,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+345,SN1993J,49100.96,11.17,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+346,SN1993J,49101.03,11.16,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+347,SN1993J,49101.09,11.19,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+348,SN1993J,49101.1,11.2,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+349,SN1993J,49101.12,11.19,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+350,SN1993J,49101.15,11.18,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+351,SN1993J,49101.2,11.19,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+352,SN1993J,49101.79,11.04,"1995PAZh...21..670M,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+353,SN1993J,49101.89,11.24,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+354,SN1993J,49102.17,11.31,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+355,SN1993J,49102.2,11.28,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+356,SN1993J,49102.62,11.27,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+357,SN1993J,49102.72,11.4,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+358,SN1993J,49102.84,11.32,"1995PAZh...21..670M,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+359,SN1993J,49102.91,11.33,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+360,SN1993J,49102.91,11.35,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+361,SN1993J,49102.91,11.36,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+362,SN1993J,49103.1,11.36,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+363,SN1993J,49103.25,11.39,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+364,SN1993J,49103.58,11.55,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+365,SN1993J,49103.74,11.46,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+366,SN1993J,49103.81,11.43,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+367,SN1993J,49103.81,11.43,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+368,SN1993J,49104.2,11.47,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+369,SN1993J,49104.3,11.47,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+370,SN1993J,49104.61,11.64,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+371,SN1993J,49104.83,11.51,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+372,SN1993J,49104.83,11.51,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+373,SN1993J,49104.91,11.51,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+374,SN1993J,49104.91,11.52,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+375,SN1993J,49105.07,11.53,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+376,SN1993J,49105.1,11.58,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+377,SN1993J,49105.15,11.53,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+378,SN1993J,49105.2,11.53,"1994AJ....107.1453B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+379,SN1993J,49105.2,11.59,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+380,SN1993J,49105.3,11.55,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+381,SN1993J,49105.87,11.61,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+382,SN1993J,49105.87,11.63,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+383,SN1993J,49106.2,11.62,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+384,SN1993J,49106.3,11.63,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+385,SN1993J,49106.9,11.68,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+386,SN1993J,49107.3,11.68,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+387,SN1993J,49107.49,11.69,"1993PASJ...45L..59V,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+388,SN1993J,49107.88,11.72,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+389,SN1993J,49107.88,11.74,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+390,SN1993J,49108.2,11.73,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+391,SN1993J,49108.2,11.74,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+392,SN1993J,49109.2,11.8,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+393,SN1993J,49109.2,11.83,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+394,SN1993J,49110.2,11.83,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+395,SN1993J,49110.2,11.89,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+396,SN1993J,49111.3,11.92,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+397,SN1993J,49111.66,12.04,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+398,SN1993J,49112.2,11.96,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+399,SN1993J,49112.61,12.05,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+400,SN1993J,49112.89,12.0,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+401,SN1993J,49112.89,12.01,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+402,SN1993J,49113.75,12.1,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+403,SN1993J,49114.2,12.02,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+404,SN1993J,49114.7,12.07,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+405,SN1993J,49115.2,12.09,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+406,SN1993J,49116.2,12.12,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+407,SN1993J,49116.3,12.1,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+408,SN1993J,49117.3,12.14,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+409,SN1993J,49118.2,12.2,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+410,SN1993J,49118.69,12.21,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+411,SN1993J,49119.47,12.25,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+412,SN1993J,49121.3,12.25,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+413,SN1993J,49121.3,12.27,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+414,SN1993J,49121.62,12.37,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+415,SN1993J,49121.9,12.26,"1994AJ....107.1022R,1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+416,SN1993J,49122.3,12.26,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+417,SN1993J,49122.3,12.29,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+418,SN1993J,49122.65,12.35,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+419,SN1993J,49122.9,12.31,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+420,SN1993J,49122.9,12.32,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+421,SN1993J,49123.2,12.31,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+422,SN1993J,49123.3,12.28,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+423,SN1993J,49123.49,12.38,"1993PASJ...45L..63O,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+424,SN1993J,49123.88,12.32,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+425,SN1993J,49123.88,12.33,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+426,SN1993J,49124.3,12.3,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+427,SN1993J,49125.99,12.38,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+428,SN1993J,49126.2,12.37,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+429,SN1993J,49126.3,12.36,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+430,SN1993J,49128.3,12.4,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+431,SN1993J,49129.3,12.44,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+432,SN1993J,49129.3,12.45,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+433,SN1993J,49129.88,12.45,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+434,SN1993J,49129.88,12.46,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+435,SN1993J,49130.3,12.43,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+436,SN1993J,49130.3,12.45,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+437,SN1993J,49131.91,12.48,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+438,SN1993J,49131.91,12.49,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+439,SN1993J,49132.88,12.49,"1994AJ....107.1022R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+440,SN1993J,49132.88,12.51,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+441,SN1993J,49135.2,12.56,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+442,SN1993J,49136.3,12.54,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+443,SN1993J,49141.3,12.61,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+444,SN1993J,49141.3,12.65,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+445,SN1993J,49146.2,12.73,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+446,SN1993J,49147.2,12.75,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+447,SN1993J,49147.3,12.76,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+448,SN1993J,49149.3,12.75,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+449,SN1993J,49150.2,12.8,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+450,SN1993J,49151.2,12.81,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+451,SN1993J,49152.3,12.83,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+452,SN1993J,49154.3,12.86,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+453,SN1993J,49156.3,12.9,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+454,SN1993J,49156.88,12.95,"1995A&AS..110..513B,SUSPECT",49073.05,AVG.,
+455,SN1993J,49156.88,12.95,"1995A&AS..110..513B,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+456,SN1993J,49157.3,12.91,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+457,SN1993J,49157.9,12.96,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+458,SN1993J,49158.3,12.93,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+459,SN1993J,49158.94,12.98,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+460,SN1993J,49159.2,12.95,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+461,SN1993J,49159.92,12.99,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+462,SN1993J,49160.3,12.95,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+463,SN1993J,49161.2,12.98,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+464,SN1993J,49161.92,13.03,"1994supe.conf...27L,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+465,SN1993J,49162.2,13.02,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+466,SN1993J,49163.2,13.02,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+467,SN1993J,49164.2,13.03,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+468,SN1993J,49165.2,13.04,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+469,SN1993J,49165.2,13.09,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+470,SN1993J,49166.2,13.06,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+471,SN1993J,49167.2,13.09,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+472,SN1993J,49167.2,13.1,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+473,SN1993J,49168.2,13.11,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+474,SN1993J,49169.2,13.14,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+475,SN1993J,49169.2,13.15,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+476,SN1993J,49170.2,13.14,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+477,SN1993J,49171.2,13.13,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+478,SN1993J,49171.2,13.17,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+479,SN1993J,49172.2,13.17,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+480,SN1993J,49173.2,13.21,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+481,SN1993J,49173.2,13.26,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+482,SN1993J,49174.2,13.22,"1996AJ....112..732R,Sternberg Astronomical Institute Supernova Light Curve Catalogue",49073.05,AVG.,
+483,SN2006T,53767.22,17.896,2017arXiv170707616S,53759.0,OBS.,0.012
+484,SN2006T,53768.27,17.551,2017arXiv170707616S,53759.0,OBS.,0.01
+485,SN2006T,53770.36211,16.852999999999998,2014ApJS..213...19B,53759.0,OBS.,0.015
+486,SN2006T,53771.22,16.65,2017arXiv170707616S,53759.0,OBS.,0.009000000000000001
+487,SN2006T,53772.21,16.459,2017arXiv170707616S,53759.0,OBS.,0.01
+488,SN2006T,53773.17,16.273,2017arXiv170707616S,53759.0,OBS.,0.008
+489,SN2006T,53774.21,16.118,2017arXiv170707616S,53759.0,OBS.,0.008
+490,SN2006T,53775.06,15.998,2017arXiv170707616S,53759.0,OBS.,0.006
+491,SN2006T,53776.340710000004,15.931,2014ApJS..213...19B,53759.0,OBS.,0.022000000000000002
+492,SN2006T,53777.30357999999,15.868,2014ApJS..213...19B,53759.0,OBS.,0.026000000000000002
+493,SN2006T,53778.21,15.764000000000001,2017arXiv170707616S,53759.0,OBS.,0.013000000000000001
+494,SN2006T,53779.32285,15.741,2014ApJS..213...19B,53759.0,OBS.,0.013999999999999999
+495,SN2006T,53781.22,15.708,2017arXiv170707616S,53759.0,OBS.,0.008
+496,SN2006T,53783.13,15.752,2017arXiv170707616S,53759.0,OBS.,0.008
+497,SN2006T,53784.22,15.808,2017arXiv170707616S,53759.0,OBS.,0.009000000000000001
+498,SN2006T,53785.24,15.870999999999999,2017arXiv170707616S,53759.0,OBS.,0.009000000000000001
+499,SN2006T,53786.27,15.946,2017arXiv170707616S,53759.0,OBS.,0.013000000000000001
+500,SN2006T,53786.333629999994,15.912,2014ApJS..213...19B,53759.0,OBS.,0.013000000000000001
+501,SN2006T,53787.33016000001,15.991,2014ApJS..213...19B,53759.0,OBS.,0.0
+502,SN2006T,53788.27,16.107,2017arXiv170707616S,53759.0,OBS.,0.013000000000000001
+503,SN2006T,53788.307929999995,16.082,2014ApJS..213...19B,53759.0,OBS.,0.013000000000000001
+504,SN2006T,53790.12,16.28,2017arXiv170707616S,53759.0,OBS.,0.008
+505,SN2006T,53794.27714,16.57,2014ApJS..213...19B,53759.0,OBS.,0.013000000000000001
+506,SN2006T,53795.14,16.7,2017arXiv170707616S,53759.0,OBS.,0.006999999999999999
+507,SN2006T,53797.273329999996,16.838,2014ApJS..213...19B,53759.0,OBS.,0.03
+508,SN2006T,53798.18,16.879,2017arXiv170707616S,53759.0,OBS.,0.01
+509,SN2006T,53798.28582999999,16.815,2014ApJS..213...19B,53759.0,OBS.,0.013999999999999999
+510,SN2006T,53799.2,16.936,2017arXiv170707616S,53759.0,OBS.,0.006999999999999999
+511,SN2006T,53800.26678,16.919,2014ApJS..213...19B,53759.0,OBS.,0.016
+512,SN2006T,53801.15,17.045,2017arXiv170707616S,53759.0,OBS.,0.011000000000000001
+513,SN2006T,53802.18,17.093,2017arXiv170707616S,53759.0,OBS.,0.01
+514,SN2006T,53803.29038,17.07,2014ApJS..213...19B,53759.0,OBS.,0.025
+515,SN2006T,53805.13,17.253,2017arXiv170707616S,53759.0,OBS.,0.01
+516,SN2006T,53808.244979999996,17.340999999999998,2014ApJS..213...19B,53759.0,OBS.,0.061
+517,SN2006T,53809.14,17.368,2017arXiv170707616S,53759.0,OBS.,0.011000000000000001
+518,SN2006T,53811.24604,17.486,2014ApJS..213...19B,53759.0,OBS.,0.032
+519,SN2006T,53815.1,17.509,2017arXiv170707616S,53759.0,OBS.,0.012
+520,SN2006T,53815.233739999996,17.442,2014ApJS..213...19B,53759.0,OBS.,0.025
+521,SN2006T,53817.23772000001,17.538,2014ApJS..213...19B,53759.0,OBS.,0.0
+522,SN2006T,53818.22403,17.6,2014ApJS..213...19B,53759.0,OBS.,0.044000000000000004
+523,SN2006T,53819.12,17.592,2017arXiv170707616S,53759.0,OBS.,0.013000000000000001
+524,SN2006T,53824.14,17.663,2017arXiv170707616S,53759.0,OBS.,0.011000000000000001
+525,SN2006T,53827.19751000001,17.658,2014ApJS..213...19B,53759.0,OBS.,0.0
+526,SN2006T,53828.17626,17.748,2014ApJS..213...19B,53759.0,OBS.,0.07
+527,SN2006T,53831.1,17.754,2017arXiv170707616S,53759.0,OBS.,0.013999999999999999
+528,SN2006T,53831.16221,17.782,2014ApJS..213...19B,53759.0,OBS.,0.040999999999999995
+529,SN2006T,53832.19949,17.78,2014ApJS..213...19B,53759.0,OBS.,0.039
+530,SN2006T,53833.14792,17.828,2014ApJS..213...19B,53759.0,OBS.,0.053
+531,SN2006T,53835.05,17.804000000000006,2017arXiv170707616S,53759.0,OBS.,0.0
+532,SN2006T,53837.18162,17.918,2014ApJS..213...19B,53759.0,OBS.,0.03
+533,SN2006T,53840.08,17.865,2017arXiv170707616S,53759.0,OBS.,0.013000000000000001
+534,SN2006T,53841.153439999995,17.895,2014ApJS..213...19B,53759.0,OBS.,0.036000000000000004
+535,SN2006T,53843.15921000001,17.889,2014ApJS..213...19B,53759.0,OBS.,0.0
+536,SN2006T,53845.04,17.913,2017arXiv170707616S,53759.0,OBS.,0.011000000000000001
+537,SN2006T,53845.15322000001,17.905,2014ApJS..213...19B,53759.0,OBS.,0.024
+538,SN2006T,53853.07,18.067,2017arXiv170707616S,53759.0,OBS.,0.012
+539,SN2006T,53866.03,18.285,2017arXiv170707616S,53759.0,OBS.,0.017
+540,SN2006T,53867.0,18.3,2017arXiv170707616S,53759.0,OBS.,0.02
+541,SN2006T,53870.05,18.319000000000006,2017arXiv170707616S,53759.0,OBS.,0.0
+542,SN2006T,53871.02,18.31,2017arXiv170707616S,53759.0,OBS.,0.013999999999999999
+543,SN2006T,53872.01,18.359,2017arXiv170707616S,53759.0,OBS.,0.018000000000000002
+544,SN2006T,53890.04,18.625,2017arXiv170707616S,53759.0,OBS.,0.018000000000000002
+545,SN2004ex,53293.12,18.820999999999998,2017arXiv170707616S,53287.85000000001,AVG.,0.016
+546,SN2004ex,53294.11,18.672,2017arXiv170707616S,53287.85000000001,AVG.,0.013000000000000001
+547,SN2004ex,53295.13,18.489,2017arXiv170707616S,53287.85000000001,AVG.,0.016
+548,SN2004ex,53298.22,18.07,2017arXiv170707616S,53287.85000000001,AVG.,0.012
+549,SN2004ex,53299.13,17.956,2017arXiv170707616S,53287.85000000001,AVG.,0.012
+550,SN2004ex,53300.17,17.829,2017arXiv170707616S,53287.85000000001,AVG.,0.013000000000000001
+551,SN2004ex,53301.15,17.718,2017arXiv170707616S,53287.85000000001,AVG.,0.013000000000000001
+552,SN2004ex,53302.17,17.652,2017arXiv170707616S,53287.85000000001,AVG.,0.013999999999999999
+553,SN2004ex,53303.18,17.558,2017arXiv170707616S,53287.85000000001,AVG.,0.016
+554,SN2004ex,53307.18,17.487000000000002,2017arXiv170707616S,53287.85000000001,AVG.,0.013999999999999999
+555,SN2004ex,53308.17,17.475,2017arXiv170707616S,53287.85000000001,AVG.,0.013999999999999999
+556,SN2004ex,53309.22,17.486,2017arXiv170707616S,53287.85000000001,AVG.,0.013000000000000001
+557,SN2004ex,53310.22,17.508,2017arXiv170707616S,53287.85000000001,AVG.,0.013000000000000001
+558,SN2004ex,53311.22,17.527,2017arXiv170707616S,53287.85000000001,AVG.,0.013000000000000001
+559,SN2004ex,53314.18,17.697,2017arXiv170707616S,53287.85000000001,AVG.,0.012
+560,SN2004ex,53315.15,17.773,2017arXiv170707616S,53287.85000000001,AVG.,0.015
+561,SN2004ex,53323.15,18.43,2017arXiv170707616S,53287.85000000001,AVG.,0.017
+562,SN2004ex,53328.13,18.724,2017arXiv170707616S,53287.85000000001,AVG.,0.02
+563,SN2004ex,53337.15,18.995,2017arXiv170707616S,53287.85000000001,AVG.,0.028999999999999998
+564,SN2004ex,53345.07,19.188,2017arXiv170707616S,53287.85000000001,AVG.,0.018000000000000002
+565,SN2004ex,53349.04,19.219,2017arXiv170707616S,53287.85000000001,AVG.,0.043
+566,SN2004ex,53353.1,19.303,2017arXiv170707616S,53287.85000000001,AVG.,0.021
+567,SN2004ex,53356.05,19.327,2017arXiv170707616S,53287.85000000001,AVG.,0.026000000000000002
+568,SN2004ex,53363.06,19.455,2017arXiv170707616S,53287.85000000001,AVG.,0.055999999999999994
+569,SN2004ex,53293.12,18.820999999999998,2017arXiv170707616S,53287.85000000001,AVG.,0.016
+570,SN2004ex,53294.11,18.672,2017arXiv170707616S,53287.85000000001,AVG.,0.013000000000000001
+571,SN2004ex,53295.13,18.489,2017arXiv170707616S,53287.85000000001,AVG.,0.016
+572,SN2004ex,53298.22,18.07,2017arXiv170707616S,53287.85000000001,AVG.,0.012
+573,SN2004ex,53299.13,17.956,2017arXiv170707616S,53287.85000000001,AVG.,0.012
+574,SN2004ex,53300.17,17.829,2017arXiv170707616S,53287.85000000001,AVG.,0.013000000000000001
+575,SN2004ex,53301.15,17.718,2017arXiv170707616S,53287.85000000001,AVG.,0.013000000000000001
+576,SN2004ex,53302.17,17.652,2017arXiv170707616S,53287.85000000001,AVG.,0.013999999999999999
+577,SN2004ex,53303.18,17.558,2017arXiv170707616S,53287.85000000001,AVG.,0.016
+578,SN2004ex,53307.18,17.487000000000002,2017arXiv170707616S,53287.85000000001,AVG.,0.013999999999999999
+579,SN2004ex,53308.17,17.475,2017arXiv170707616S,53287.85000000001,AVG.,0.013999999999999999
+580,SN2004ex,53309.22,17.486,2017arXiv170707616S,53287.85000000001,AVG.,0.013000000000000001
+581,SN2004ex,53310.22,17.508,2017arXiv170707616S,53287.85000000001,AVG.,0.013000000000000001
+582,SN2004ex,53311.22,17.527,2017arXiv170707616S,53287.85000000001,AVG.,0.013000000000000001
+583,SN2004ex,53314.18,17.697,2017arXiv170707616S,53287.85000000001,AVG.,0.012
+584,SN2004ex,53315.15,17.773,2017arXiv170707616S,53287.85000000001,AVG.,0.015
+585,SN2004ex,53323.15,18.43,2017arXiv170707616S,53287.85000000001,AVG.,0.017
+586,SN2004ex,53328.13,18.724,2017arXiv170707616S,53287.85000000001,AVG.,0.02
+587,SN2004ex,53337.15,18.995,2017arXiv170707616S,53287.85000000001,AVG.,0.028999999999999998
+588,SN2004ex,53345.07,19.188,2017arXiv170707616S,53287.85000000001,AVG.,0.018000000000000002
+589,SN2004ex,53349.04,19.219,2017arXiv170707616S,53287.85000000001,AVG.,0.043
+590,SN2004ex,53353.1,19.303,2017arXiv170707616S,53287.85000000001,AVG.,0.021
+591,SN2004ex,53356.05,19.327,2017arXiv170707616S,53287.85000000001,AVG.,0.026000000000000002
+592,SN2004ex,53363.06,19.455,2017arXiv170707616S,53287.85000000001,AVG.,0.055999999999999994
+593,SN2008aq,54524.9953,16.396,2014Ap&SS.354...89B,54513.0,Stevance+16,0.065
+594,SN2008aq,54527.2348,16.048,2014Ap&SS.354...89B,54513.0,Stevance+16,0.061
+595,SN2008aq,54527.32,16.045,2017arXiv170707616S,54513.0,Stevance+16,0.016
+596,SN2008aq,54528.3059,15.957,2014Ap&SS.354...89B,54513.0,Stevance+16,0.062
+597,SN2008aq,54529.3327,15.936,2014Ap&SS.354...89B,54513.0,Stevance+16,0.062
+598,SN2008aq,54531.2519,15.843,2014Ap&SS.354...89B,54513.0,Stevance+16,0.063
+599,SN2008aq,54534.2263,15.904000000000002,2014Ap&SS.354...89B,54513.0,Stevance+16,0.064
+600,SN2008aq,54539.9535,16.409000000000002,2014Ap&SS.354...89B,54513.0,Stevance+16,0.078
+601,SN2008aq,54541.36,16.454,2017arXiv170707616S,54513.0,Stevance+16,0.01
+602,SN2008aq,54542.2,16.475,2017arXiv170707616S,54513.0,Stevance+16,0.015
+603,SN2008aq,54543.22,16.569000000000006,2017arXiv170707616S,54513.0,Stevance+16,0.0
+604,SN2008aq,54545.28,16.77,2017arXiv170707616S,54513.0,Stevance+16,0.011000000000000001
+605,SN2008aq,54560.22,17.433,2017arXiv170707616S,54513.0,Stevance+16,0.011000000000000001
+606,SN2008aq,54566.31,17.531,2017arXiv170707616S,54513.0,Stevance+16,0.016
+607,SN2008aq,54570.22,17.641,2017arXiv170707616S,54513.0,Stevance+16,0.012
+608,SN2008aq,54583.16,17.823,2017arXiv170707616S,54513.0,Stevance+16,0.012
+609,SN2008aq,54589.24,17.939,2017arXiv170707616S,54513.0,Stevance+16,0.013000000000000001
+610,SN2008aq,54597.21,18.099,2017arXiv170707616S,54513.0,Stevance+16,0.013999999999999999
+611,SN2008aq,54599.13,18.075,2017arXiv170707616S,54513.0,Stevance+16,0.018000000000000002
+612,SN2008aq,54616.11,18.442,2017arXiv170707616S,54513.0,Stevance+16,0.013999999999999999
+613,SN2008aq,54626.12,18.623,2017arXiv170707616S,54513.0,Stevance+16,0.017
+614,SN2008aq,54628.09,18.646,2017arXiv170707616S,54513.0,Stevance+16,0.017
+615,SN2008aq,54644.07,18.985,2017arXiv170707616S,54513.0,Stevance+16,0.02
+616,SN2008aq,54648.09,19.057000000000002,2017arXiv170707616S,54513.0,Stevance+16,0.021
+617,SN2008aq,54653.05,19.178,2017arXiv170707616S,54513.0,Stevance+16,0.02
+618,SN2013df,56452.91,14.1,2014MNRAS.445.1647M,56448.2,SNID,0.01
+619,SN2013df,56453.07,14.2,2014MNRAS.445.1647M,56448.2,SNID,0.24
+620,SN2013df,56454.2,14.46,2014MNRAS.445.1647M,56448.2,SNID,0.18
+621,SN2013df,56454.93,14.53,2014MNRAS.445.1647M,56448.2,SNID,0.02
+622,SN2013df,56455.92,14.55,2014MNRAS.445.1647M,56448.2,SNID,0.02
+623,SN2013df,56456.07,14.4,2014MNRAS.445.1647M,56448.2,SNID,0.11
+624,SN2013df,56456.2,14.55,2014MNRAS.445.1647M,56448.2,SNID,0.3
+625,SN2013df,56456.4,14.73,2014MNRAS.445.1647M,56448.2,SNID,0.04
+626,SN2013df,56456.4088,14.694,2014Ap&SS.354...89B,56448.2,SNID,0.046
+627,SN2013df,56458.85,15.02,2014MNRAS.445.1647M,56448.2,SNID,0.05
+628,SN2013df,56458.8529,15.015999999999998,2014Ap&SS.354...89B,56448.2,SNID,0.06
+629,SN2013df,56458.93,14.95,2014MNRAS.445.1647M,56448.2,SNID,0.03
+630,SN2013df,56459.67,15.06,2014MNRAS.445.1647M,56448.2,SNID,0.05
+631,SN2013df,56459.672,15.025,2014Ap&SS.354...89B,56448.2,SNID,0.062
+632,SN2013df,56460.09,14.98,2014MNRAS.445.1647M,56448.2,SNID,0.11
+633,SN2013df,56461.42,14.87,2014MNRAS.445.1647M,56448.2,SNID,0.01
+634,SN2013df,56463.32,14.85,2014MNRAS.445.1647M,56448.2,SNID,0.05
+635,SN2013df,56463.3258,14.834000000000001,2014Ap&SS.354...89B,56448.2,SNID,0.059000000000000004
+636,SN2013df,56463.38,14.77,2014MNRAS.445.1647M,56448.2,SNID,0.11
+637,SN2013df,56465.42,14.63,2014MNRAS.445.1647M,56448.2,SNID,0.01
+638,SN2013df,56465.69,14.618,2014Ap&SS.354...89B,56448.2,SNID,0.06
+639,SN2013df,56465.69,14.65,2014MNRAS.445.1647M,56448.2,SNID,0.05
+640,SN2013df,56465.92,14.61,2014MNRAS.445.1647M,56448.2,SNID,0.03
+641,SN2013df,56466.92,14.65,2014MNRAS.445.1647M,56448.2,SNID,0.06
+642,SN2013df,56467.2978,14.532,2014Ap&SS.354...89B,56448.2,SNID,0.066
+643,SN2013df,56467.47,14.55,2014MNRAS.445.1647M,56448.2,SNID,0.06
+644,SN2013df,56467.92,14.57,2014MNRAS.445.1647M,56448.2,SNID,0.04
+645,SN2013df,56467.92,14.67,2014MNRAS.445.1647M,56448.2,SNID,0.08
+646,SN2013df,56468.92,14.57,2014MNRAS.445.1647M,56448.2,SNID,0.04
+647,SN2013df,56469.06,14.63,2014MNRAS.445.1647M,56448.2,SNID,0.05
+648,SN2013df,56469.0664,14.633,2014Ap&SS.354...89B,56448.2,SNID,0.059000000000000004
+649,SN2013df,56469.92,14.55,2014MNRAS.445.1647M,56448.2,SNID,0.03
+650,SN2013df,56471.94,14.55,2014MNRAS.445.1647M,56448.2,SNID,0.02
+651,SN2013df,56472.92,14.62,2014MNRAS.445.1647M,56448.2,SNID,0.03
+652,SN2013df,56473.79,14.76,2014MNRAS.445.1647M,56448.2,SNID,0.05
+653,SN2013df,56473.7904,14.769,2014Ap&SS.354...89B,56448.2,SNID,0.059000000000000004
+654,SN2013df,56473.92,14.68,2014MNRAS.445.1647M,56448.2,SNID,0.03
+655,SN2013df,56475.4084,14.908,2014Ap&SS.354...89B,56448.2,SNID,0.059000000000000004
+656,SN2013df,56475.41,14.94,2014MNRAS.445.1647M,56448.2,SNID,0.05
+657,SN2013df,56476.92,15.02,2014MNRAS.445.1647M,56448.2,SNID,0.04
+658,SN2013df,56477.63,15.11,2014MNRAS.445.1647M,56448.2,SNID,0.06
+659,SN2013df,56477.6318,15.081,2014Ap&SS.354...89B,56448.2,SNID,0.065
+660,SN2013df,56477.92,15.15,2014MNRAS.445.1647M,56448.2,SNID,0.05
+661,SN2013df,56478.92,15.23,2014MNRAS.445.1647M,56448.2,SNID,0.04
+662,SN2013df,56479.26,15.35,2014MNRAS.445.1647M,56448.2,SNID,0.06
+663,SN2013df,56479.2657,15.308,2014Ap&SS.354...89B,56448.2,SNID,0.066
+664,SN2013df,56479.92,15.34,2014MNRAS.445.1647M,56448.2,SNID,0.06
+665,SN2013df,56480.08,15.43,2014MNRAS.445.1647M,56448.2,SNID,0.06
+666,SN2013df,56480.92,15.43,2014MNRAS.445.1647M,56448.2,SNID,0.1
+667,SN2013df,56481.26,15.52,2014MNRAS.445.1647M,56448.2,SNID,0.06
+668,SN2013df,56481.2651,15.459000000000001,2014Ap&SS.354...89B,56448.2,SNID,0.069
+669,SN2013df,56482.08,15.52,2014MNRAS.445.1647M,56448.2,SNID,0.2
+670,SN2013df,56483.7174,15.765,2014Ap&SS.354...89B,56448.2,SNID,0.09699999999999999
+671,SN2013df,56483.75,15.84,2014MNRAS.445.1647M,56448.2,SNID,0.09
+672,SN2013df,56485.83,15.73,2014MNRAS.445.1647M,56448.2,SNID,0.08
+673,SN2013df,56485.8345,15.698,2014Ap&SS.354...89B,56448.2,SNID,0.084
+674,SN2013df,56487.1381,15.710999999999999,2014Ap&SS.354...89B,56448.2,SNID,0.076
+675,SN2013df,56487.14,15.79,2014MNRAS.445.1647M,56448.2,SNID,0.07
+676,SN2013df,56488.08,15.8,2014MNRAS.445.1647M,56448.2,SNID,0.22
+677,SN2013df,56489.25,16.18,2014MNRAS.445.1647M,56448.2,SNID,0.11
+678,SN2013df,56489.2547,16.048,2014Ap&SS.354...89B,56448.2,SNID,0.105
+679,SN2013df,56491.88,15.99,2014MNRAS.445.1647M,56448.2,SNID,0.03
+680,SN2013df,56493.43,16.03,2014MNRAS.445.1647M,56448.2,SNID,0.09
+681,SN2013df,56495.44,16.05,2014MNRAS.445.1647M,56448.2,SNID,0.04
+682,SN2013df,56495.92,16.13,2014MNRAS.445.1647M,56448.2,SNID,0.07
+683,SN2013df,56496.18,16.19,2014MNRAS.445.1647M,56448.2,SNID,0.06
+684,SN2013df,56496.1835,16.1,2014Ap&SS.354...89B,56448.2,SNID,0.07
+685,SN2013df,56497.9,16.13,2014MNRAS.445.1647M,56448.2,SNID,0.11
+686,SN2013df,56500.5291,16.112000000000002,2014Ap&SS.354...89B,56448.2,SNID,0.105
+687,SN2013df,56500.53,16.23,2014MNRAS.445.1647M,56448.2,SNID,0.11
+688,SN2013df,56502.9,16.27,2014MNRAS.445.1647M,56448.2,SNID,0.04
+689,SN2013df,56504.23,16.38,2014MNRAS.445.1647M,56448.2,SNID,0.07
+690,SN2013df,56504.2354,16.291,2014Ap&SS.354...89B,56448.2,SNID,0.073
+691,SN2013df,56508.9337,15.937000000000001,2014Ap&SS.354...89B,56448.2,SNID,0.142
+692,SN2013df,56510.5099,16.392,2014Ap&SS.354...89B,56448.2,SNID,0.075
+693,SN2013df,56510.51,16.52,2014MNRAS.445.1647M,56448.2,SNID,0.07
+694,SN2006el,53962.3,20.33,2011ApJ...741...97D,53959.0,SNID-error,
+695,SN2006el,53963.4,19.75,2011ApJ...741...97D,53959.0,SNID-error,0.09
+696,SN2006el,53964.2,19.83,2011ApJ...741...97D,53959.0,SNID-error,0.09
+697,SN2006el,53965.1,19.87,2011ApJ...741...97D,53959.0,SNID-error,0.09
+698,SN2006el,53966.1,19.44,2011ApJ...741...97D,53959.0,SNID-error,0.07
+699,SN2006el,53967.1,19.37,2011ApJ...741...97D,53959.0,SNID-error,0.06
+700,SN2006el,53968.2,19.07,2011ApJ...741...97D,53959.0,SNID-error,0.06
+701,SN2006el,53969.1,18.83,2011ApJ...741...97D,53959.0,SNID-error,0.05
+702,SN2006el,53970.3,18.56,2011ApJ...741...97D,53959.0,SNID-error,0.05
+703,SN2006el,53972.4,18.28,2011ApJ...741...97D,53959.0,SNID-error,0.03
+704,SN2006el,53973.3,18.18,2011ApJ...741...97D,53959.0,SNID-error,0.03
+705,SN2006el,53974.2,18.1,2011ApJ...741...97D,53959.0,SNID-error,0.03
+706,SN2006el,53975.2,17.98,2011ApJ...741...97D,53959.0,SNID-error,0.03
+707,SN2006el,53976.2,17.85,2011ApJ...741...97D,53959.0,SNID-error,0.03
+708,SN2006el,53977.2,17.82,2011ApJ...741...97D,53959.0,SNID-error,0.03
+709,SN2006el,53978.2,17.78,2011ApJ...741...97D,53959.0,SNID-error,0.03
+710,SN2006el,53984.46789,17.573,2014ApJS..213...19B,53959.0,SNID-error,0.028999999999999998
+711,SN2006el,53987.3547,17.604,2014ApJS..213...19B,53959.0,SNID-error,0.027000000000000003
+712,SN2006el,53989.4001,17.779,2014ApJS..213...19B,53959.0,SNID-error,0.035
+713,SN2006el,53990.2904,17.762,2014ApJS..213...19B,53959.0,SNID-error,0.03
+714,SN2006el,53991.38517,17.9,2014ApJS..213...19B,53959.0,SNID-error,0.031
+715,SN2006el,53992.202789999996,17.902,2014ApJS..213...19B,53959.0,SNID-error,0.025
+716,SN2006el,53994.28012,18.081,2014ApJS..213...19B,53959.0,SNID-error,0.026000000000000002
+717,SN2006el,54000.33162999999,18.448,2014ApJS..213...19B,53959.0,SNID-error,0.035
+718,SN2006el,54002.35094,18.593,2014ApJS..213...19B,53959.0,SNID-error,0.035
+719,SN2006el,54006.39986000001,18.840999999999998,2014ApJS..213...19B,53959.0,SNID-error,0.0
+720,SN2006el,54007.18996,18.934,2014ApJS..213...19B,53959.0,SNID-error,0.051
+721,SN2006el,54008.3,18.68,2011ApJ...741...97D,53959.0,SNID-error,0.05
+722,SN2006el,54009.25979,18.916,2014ApJS..213...19B,53959.0,SNID-error,0.048
+723,SN2006el,54011.16891,18.945999999999998,2014ApJS..213...19B,53959.0,SNID-error,0.053
+724,SN2006el,54012.179560000004,19.076,2014ApJS..213...19B,53959.0,SNID-error,0.067
+725,SN2006el,54019.2171,19.245,2014ApJS..213...19B,53959.0,SNID-error,0.067
+726,SN2006el,54021.19751000001,19.312,2014ApJS..213...19B,53959.0,SNID-error,0.0
+727,SN2006el,54030.25664,19.526,2014ApJS..213...19B,53959.0,SNID-error,0.075
+728,SN2006el,54038.2,19.1,2011ApJ...741...97D,53959.0,SNID-error,0.05
+729,SN2006el,54042.14125,19.782,2014ApJS..213...19B,53959.0,SNID-error,0.16
+730,SN2006el,54045.14142000001,19.712,2014ApJS..213...19B,53959.0,SNID-error,0.141
+731,SN2006el,54046.13216,19.555999999999997,2014ApJS..213...19B,53959.0,SNID-error,0.11800000000000001
+732,SN2006el,54052.16772000001,19.824,2014ApJS..213...19B,53959.0,SNID-error,0.0
+733,SN2006el,54054.14587000001,19.773,2014ApJS..213...19B,53959.0,SNID-error,0.07200000000000001
+734,SN2006el,54056.23527999999,19.807000000000002,2014ApJS..213...19B,53959.0,SNID-error,0.102
+735,SN2006el,54066.14845,19.977,2014ApJS..213...19B,53959.0,SNID-error,0.124
+736,SN2006el,54067.09398,20.109,2014ApJS..213...19B,53959.0,SNID-error,0.251
+737,SN2006el,54069.169129999995,19.812,2014ApJS..213...19B,53959.0,SNID-error,0.20199999999999999
+738,SN2006el,54076.11794,20.256,2014ApJS..213...19B,53959.0,SNID-error,0.16
+739,SN2006el,54080.09400000001,20.119,2014ApJS..213...19B,53959.0,SNID-error,0.0
+740,SN2006el,54081.090189999995,20.041,2014ApJS..213...19B,53959.0,SNID-error,0.114
+741,SN2006el,54082.12725,20.182000000000002,2014ApJS..213...19B,53959.0,SNID-error,0.138
+742,SN2006el,54086.14222,20.375,2014ApJS..213...19B,53959.0,SNID-error,0.17300000000000001
+743,SN2006el,54095.086039999995,20.651999999999997,2014ApJS..213...19B,53959.0,SNID-error,0.201
